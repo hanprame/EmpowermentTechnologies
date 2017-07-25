@@ -1,6 +1,6 @@
 # JBRC Empowerment Technologies Resources
 
-If you can bookmark only one page for the class, bookmark this page. All other resources are linked from here.
+If you can bookmark only one page for the class, bookmark this page
 
 Short URL to this page: https://goo.gl/795e3L
 
