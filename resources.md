@@ -10,5 +10,8 @@ https://gist.github.com/radamanthus/9979b46acd6825abca584f4982c8fd7f
 HTML Reference Handout:
 https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/HTMLReferenceHandout.pdf
 
+Git FAQ:
+https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/git-faq.md
+
 GitHub Pages documentation:
 https://help.github.com/categories/github-pages-basics/
