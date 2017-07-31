@@ -18,3 +18,6 @@ https://help.github.com/categories/github-pages-basics/
 
 Homework 2 (HTML):
 https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/Homework2.pdf
+
+GitHub Pages How-To:
+https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/github-pages-howto.md
