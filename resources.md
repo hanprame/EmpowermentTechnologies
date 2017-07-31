@@ -15,3 +15,6 @@ https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/git-faq.md
 
 GitHub Pages documentation:
 https://help.github.com/categories/github-pages-basics/
+
+Homework 2 (HTML):
+https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/Homework2.pdf
