@@ -21,3 +21,6 @@ https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/Homework2.pdf
 
 GitHub Pages How-To:
 https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/github-pages-howto.md
+
+Homework 3 (CSS):
+https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/homework3.md
