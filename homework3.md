@@ -120,13 +120,13 @@ Add an external stylesheet to the HTML above:
   </head>
 ```
 
-_Question 1: Where should you put the code - before or after the <body> tag?_
+_Question 1: Where should you put the code - before or after the `<body>` tag?_
 
 After adding the external stylesheet, reload index.html on your browser. Do NOT yet create style.css. 
 
 _Question 2: Were there any changes in the layout or look of index.html?_
 
-Change the <body> tag in the HTML to:
+Change the `<body>` tag in the HTML to:
 
 ```
 <body style="background: #A0A0A0;">
