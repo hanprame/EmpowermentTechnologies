@@ -1,3 +1,5 @@
+If you prefer to work offline, you can find the PDF version here: https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/homework3.pdf
+
 After finishing this homework, you should know:
 
 - how to add an external stylesheet to an HTML file
@@ -152,15 +154,19 @@ You've just styled index.html with an external stylesheet.
 
 _Question 3: There are three ways to incorporate CSS into HTML. In this exercise, you did two: (1) use inline styling, and (2) use an external stylesheet. What is the third way?_
 
+_Question 4: Describe the advantages and disadvantages of using inline styling._
+
+_Question 5: Describe the advantages and disadvantages of using an external stylesheet._
+
 # HTML Colors
 
 Change the background color to #B0C4DE.
 
-_Question 4: What is the HTML color name for #B0C4DE?_
+_Question 6: What is the HTML color name for #B0C4DE?_
 
-_Question 5: In #B0C4DE, which two characters stand for the red component of the RGB color? Which two characters stand for green? For blue?_
+_Question 7: In #B0C4DE, which two characters stand for the red component of the RGB color? Which two characters stand for green? For blue?_
 
-_Question 6: As the background color values for red, green and blue approach FF, what happens to the color - does it become lighter or darker? As the color values approach 00, does the color become ligher or darker?_
+_Question 8: Try experimenting with the color value. As the background color values for red, green and blue approach FF, what happens to the color - does it become lighter or darker? As the color values approach 00, does the color become ligher or darker?_
 
 Modify style.css to change the background color back to white.
 
@@ -178,13 +184,13 @@ p {
 
 Save `style.css` and reload `index.html` in the browser.
 
-_Question 7: What changed in the page?_
+_Question 9: What changed in the page?_
 
 Change `index.html` and `style.css` so that only the three Lorem Ipsum paragraphs get the sans-serif font styling. These are the <p> tags preceded by the HTML comments "First paragraph", "Second paragraph", and "Third paragraph".
 
-_Question 8: Write down the new HTML code for the first three <p> tags._
+_Question 10: Write down the new HTML code for the first three <p> tags. You do not need to write down the text between <p ...> and the closing </p> tag._
 
-_Question 9: Write down the new CSS code for `style.css`_
+_Question 11: Write down the new CSS code for `style.css`_
 
 ```
 HINT: Read about CSS Class Selectors: https://www.w3schools.com/cssref/sel_class.asp
@@ -192,7 +198,7 @@ HINT: Read about CSS Class Selectors: https://www.w3schools.com/cssref/sel_class
 
 Following the same principles, modify your code to highlight the row for Captain America with a gray background.
 
-_Question 10: Write down the new HTML code for the Captain America `<tr>` block_:
+_Question 12: Write down the new HTML code for the Captain America `<tr>` block_:
 
 ```
         <tr>
@@ -208,7 +214,7 @@ _Question 10: Write down the new HTML code for the Captain America `<tr>` block_
         </tr>
 ```
 
-_Question 11: Write down the new CSS code for `style.css`._
+_Question 13: Write down the new CSS code for `style.css`._
 
 # CSS ID Selectors
 
@@ -218,8 +224,8 @@ If you want to style one specific HTML tag, put an ID attribute on the tag and a
 HINT: Read about CSS ID Selectors: https://www.w3schools.com/cssref/sel_id.asp
 ```
 
-_Question 12: Write down the HTML and CSS changes needed to change the color of the second paragraph to green._
+_Question 14: Write down the HTML and CSS changes needed to change the color of the second paragraph to green._
 
-_Question 13 (Extra Credit, +30%): If you haven't yet done so, create a new GitHub project named homework3, configure GitHub Pages on the project, and upload your HTML and CSS into the project. You get the full +30% if http://yourusername.github.io/homework3 renders correctly on a browser._
+_Question 15 (Extra Credit, +20%): If you haven't yet done so, create a new GitHub project named homework3, configure GitHub Pages on the project, and upload your HTML and CSS into the project. You get the full +20% if http://yourusername.github.io/homework3 renders correctly on a browser._
 
 You're done. Congratulations! 
