@@ -138,3 +138,13 @@ Write your reflection.
 
 Congratulations, you're done!
 
+Further study: Read about the CSS properties you used today (e.g. Google "css float mdn" or "css float w3schools"):
+  - margin
+  - padding
+  - list-style-none
+  - float
+  - display
+  - text-decoration
+  - background-color
+  - hover
+
