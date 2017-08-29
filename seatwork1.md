@@ -13,6 +13,10 @@ At the end of this exercise, you should learn:
   - background-color
 - How to use the following CSS selectors:
   - hover
+  
+### Step 0. Plan ahead.
+
+You will spend the last 10 minutes of the class writing your reflection about this activity. Plan to finish coding at 7:50 AM.
 
 ### Step 1. Fork the boilerplate project 
 
