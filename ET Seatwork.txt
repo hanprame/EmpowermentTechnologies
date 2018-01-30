@@ -24,7 +24,10 @@ tracert / traceroute Exercise: Do a traceroute for each of the four websites you
 
 Descending order speed rank
 
-1.PLDT - Average : 26ms(our broadband connection speed) 2.Akamai Edge - Average : 81ms 3.Singtel - Average :394ms 4.Telkam - Average :491ms
+1.PLDT - Average : 26ms(our broadband connection speed) 
+2.Akamai Edge - Average : 81ms 
+3.Singtel - Average :394ms 
+4.Telkam - Average :491ms
 
 whois Exercise: For each of the hops in the traceroute output to www.singtel.sg, run a whois. Determine the location (country) of each IP address in the hop. Do the same analysis for the traceroute output to www.att.com. Based on your analysis, explain which network connection is faster, and why.
 
